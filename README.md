@@ -4,6 +4,8 @@ A Crystal wrapper for [Rocket][rocket].
 
 Still a work-in-progress, and a proof-of-concept.  Caveat emptor!
 
+An example project is available at [nilsding/crocket_example][example].
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
@@ -91,3 +93,4 @@ TODO: Write development instructions here
 - [Georg Gadinger](https://github.com/nilsding) - creator and maintainer
 
 [rocket]: https://github.com/rocket/rocket
+[example]: https://github.com/nilsding/crocket_example
